@@ -1,0 +1,5 @@
+﻿  FinalProj.cpp
+FinalProj.obj : error LNK2019: unresolved external symbol "void __cdecl deposit_withdraw(int,int)" (?deposit_withdraw@@YAXHH@Z) referenced in function _main
+    Hint on symbols that are defined and could potentially match:
+      "public: void __thiscall account::deposit_withdraw(int,int)" (?deposit_withdraw@account@@QAEXHH@Z)
+D:\Documents\SCHOOL WORKS S.Y. 20-21\2ND SEM\DATA STRUCTURES\FinalProject_DSA\Debug\FinalProject_DSA.exe : fatal error LNK1120: 1 unresolved externals
